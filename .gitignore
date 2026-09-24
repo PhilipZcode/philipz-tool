@@ -4,8 +4,9 @@ __pycache__/
 *.pyc
 *.spec
 
-# File di ambiente o chiavi personali (sicurezza)
+
 .env
 
-# Nota: Non tracciamo dist/ perché l'exe lo metteremo nelle "Releases" di GitHub
+
 dist/
+ffmpeg.exe
