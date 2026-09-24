@@ -1,12 +1,7 @@
-# Cartelle temporanee di PyInstaller e Python
 build/
 __pycache__/
 *.pyc
 *.spec
-
-
 .env
-
-
 dist/
 ffmpeg.exe
