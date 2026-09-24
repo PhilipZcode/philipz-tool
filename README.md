@@ -1,3 +1,4 @@
+<img width="386" height="267" alt="assetsdemo png" src="https://github.com/user-attachments/assets/06fa2db8-0e32-43bc-af68-f33c4a807995" />
 # 🛠️ PhilipZ Tool
 
 **PhilipZ Tool** is a feature-rich, standalone Windows Command Line (CLI) utility built with Python. Designed for productivity, system monitoring, media processing, and AI interaction—all wrapped inside a single tool.
